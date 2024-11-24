@@ -1,6 +1,7 @@
 # Projeto pessoal [TO-DO ListApp]
 
-
+## # LINK DO PROJETO:
+ - https://arielpellegrino.github.io/to-do-listapp-js-pure/
 
 ## # Finalidade
  - Básicamente, fazer sozinho só pra brincar e ver se aprendi...
